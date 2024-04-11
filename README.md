@@ -1,1 +1,1 @@
-# CNN-Project-Cat-Vs-Dog-Image-Classification..
+# CNN-Project-Cat-Vs-Dog-Image-Classification.
